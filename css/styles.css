@@ -41,9 +41,18 @@ h2{
 }
 
 .dark-background {
-  background-color: darkslategrey;
+  background-color: black;
 }
 
 .light-background {
-  background-color: lightcyan;
+  background-color: yellow;
+}
+.container {
+  width: 100%;
+}
+.highlight {
+  border: 3px;
+  border-style:solid;
+  border-color: aqua;
+  padding:1em ;
 }
